@@ -1,4 +1,4 @@
-# Chingu Solo Project - Tier 1 - Chingu Trivia - for Product Owners
+# Chingu Voyage Project - Tier 1 - Chuck Norris Quotes
 
 ## Overview
 
