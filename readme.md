@@ -60,6 +60,7 @@ user, or a text string entered by your user.
 *Styling:*
 
 - [ ] Surprise us!!!
+- [ ] Add a footer containing a link to your teams GitHub repo
 - [ ] In general, you will find these [UI design principles](https://www.justinmind.com/ui-design/principles) helpful.
 
 *Functionality*
@@ -72,15 +73,9 @@ user, or a text string entered by your user.
 
 - [ ] Display a random Chuck Norris fact
 
-*Considerations:*
-
-- [ ] Try and style your app so that it doesn't overflow the viewport (require scrolling) on any device
-- [ ] Make sure your User Experience design is intuitive (buttons are clearly disabled when not available, messages are clear, etc)
-- [ ] In the name of responsiveness: please try and have your answer buttons (or divs, or whatever you use) collapse into a column in small sizes (iPhone5, etc)
-
 *Other:*
 
-- [ ] Your repo needs to have a robust README.md
+- [ ] Your repo needs to have a robust [README](https://medium.com/chingu/keys-to-a-well-written-readme-55c53d34fe6d)
 - [ ] Make sure that there are no errors in the developer console before submitting
 
 **Extras (Not Required)**
@@ -89,9 +84,12 @@ user, or a text string entered by your user.
 - [ ] Follow [A11Y principles and practices](https://www.a11yproject.com/) so your app will be accessible to users with impairments.
 - [ ] Allow the user to switch between light and dark modes.
 - [ ] Add animation and visual effects to capture user interest in the page.
+- [ ] Add a team page to highlight members of your team. Be sure to include links to their professional and social media.
 - [ ] Allow the user to define how many facts are returned at one time. The default should be 1.
 - [ ] Ensure that the same fact is not displayed to the user more than once in a session.
-
+- [ ] Give the user the option to order the list of categories alphabetically or by categories they have most frequently used in the current session.
+- [ ] Add a user profile feature and keep track of metrics such as the number of facts the user has retrieve or the number of times each type of search (ie. random, catgory, text) has been used.
+- [ ] Be creative and come up with your own new features or enhancements! 
 
 ## About Chingu
 
