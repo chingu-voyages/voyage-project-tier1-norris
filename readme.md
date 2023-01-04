@@ -68,6 +68,7 @@ user, or a text string entered by your user.
 - [ ] Your app should present the user with options for displaying a random fact, one based on a category selected by the user, or one based on a text string entered by the user.
 - [ ] For category selection, users should be able to click on a 'Categories' element to reveal a list of categories they may choose from.
 - [ ] For searching by a text string allow input in upper or lower case
+- [ ] For all of the above you should exclude any quotes in the "explicit" category and optionally, those from the "religious" and "political" category (see [Chingu Community Standards](https://discord.com/channels/330284646283608064/914163956405395476/914165230119034900))
 
 *Upon Load:*
 
