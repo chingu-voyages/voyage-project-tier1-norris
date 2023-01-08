@@ -81,6 +81,7 @@ user, or a text string entered by your user.
 
 **Extras (Not Required)**
 
+- [ ] Give your user the option to limit the display of the results to a specific number of entries, or implement paging the results.
 - [ ] Make your app [responsive](https://developers.google.com/web/fundamentals/design-and-ux/responsive/) so its UI/UX will be usable and attractive on a wide range of devices.
 - [ ] Follow [A11Y principles and practices](https://www.a11yproject.com/) so your app will be accessible to users with impairments.
 - [ ] Allow the user to switch between light and dark modes.
